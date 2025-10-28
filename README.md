@@ -4,7 +4,7 @@ In traditional spinal surgical simulators, after spinal puncture needle penetrat
 The specific operation videos are as follows.
 https://b23.tv/vPGvnLl1.
 
-
+Important Note: Simulated anteroposterior (AP) and lateral films in this software correspond to 3D-printed models. Before using the built-in AP and lateral films, download and print the model in advance：https://makerworld.com.cn/zh/models/1517922-yao-zhui-wei-chuang-shou-zhu-he-chuan-ci-mo-ni-qi#profileId-1658428
 
 Overview
 
